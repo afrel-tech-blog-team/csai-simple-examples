@@ -1,15 +1,17 @@
 # CS&AI用 シンプルなプログラム
 ## 概要
-「レゴ エデュケーション コンピューターサイエンス＆AI」用のPythonのプログラムです。実行には「legoeducation」ライブラリが必要です。
+「レゴ エデュケーション コンピューターサイエンス＆AI」用のPythonのプログラムです。実行には「legoeducation」ライブラリが必要です。GUIはTkinterを使って表現しています。
 
 ## ファイル
-doublemotor_gui.py : ダブルモーターの制御とIMUの読み取りを行うプログラムです。
+・doublemotor_gui.py : ダブルモーターの制御とIMUの読み取りを行うプログラムです。
 
-singlemotor_gui.py : シングルモーターを制御するプログラムです。
+・singlemotor_gui.py : シングルモーターを制御するプログラムです。
 
-colorsensor_gui.py : カラーセンサーを読み取ってRGBの値を表示するプログラムです。
+・colorsensor_gui.py : カラーセンサーを読み取ってRGBの値を表示するプログラムです。
 
-controller_gui.py : コントローラーを読み取ってレバーの位置を表示するプログラムです。
+・controller_gui.py : コントローラーを読み取ってレバーの位置を表示するプログラムです。
+
+・le_help.py : 4つのライブラリのヘルプをまとめて表示するプログラムです。
 
 ## スクリーンショット
 <img width="322" height="552" alt="Image" src="https://github.com/user-attachments/assets/752b1d9c-300f-473b-b49e-992bdbde6d3b" />
