@@ -5,13 +5,15 @@
 ## ファイル
 ・doublemotor_gui.py : ダブルモーターの制御とIMUの読み取りを行うプログラムです。
 
-・singlemotor_gui.py : シングルモーターを制御するプログラムです。
+・singlemotor_gui.py : シングルモーターを制御するプログラムです(相対的な角度制御)。
+
+・singlemotor_gui2.py : シングルモーターを制御するプログラムです(絶対的な角度制御)。
 
 ・colorsensor_gui.py : カラーセンサーを読み取ってRGBの値を表示するプログラムです。
 
 ・controller_gui.py : コントローラーを読み取ってレバーの位置を表示するプログラムです。
 
-・le_help.py : 4つのライブラリのヘルプをまとめて表示するプログラムです。
+・le_help.py : 4つのライブラリのヘルプを表示するプログラムです。
 
 ## スクリーンショット
 <img width="322" height="552" alt="Image" src="https://github.com/user-attachments/assets/752b1d9c-300f-473b-b49e-992bdbde6d3b" />
