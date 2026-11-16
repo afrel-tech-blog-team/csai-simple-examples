@@ -16,7 +16,7 @@
 ## スクリーンショット
 <img width="322" height="552" alt="Image" src="https://github.com/user-attachments/assets/752b1d9c-300f-473b-b49e-992bdbde6d3b" />
 
-<img width="322" height="352" alt="Image" src="https://github.com/user-attachments/assets/1a9560ea-f47d-4da2-9bc5-7b84b0e2ffa3" />
+<img width="322" height="352" alt="Clipboard_11-16-2026_05" src="https://github.com/user-attachments/assets/9d39e83b-a99c-4f72-b64c-32b08f7f7f2e" />
 
 <img width="322" height="452" alt="Image" src="https://github.com/user-attachments/assets/ac12f60a-5564-46ed-9102-b529bec4217d" />
 
